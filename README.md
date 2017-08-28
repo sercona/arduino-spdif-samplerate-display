@@ -1,4 +1,4 @@
-# arduino-spdif-samplerate-display
+# arduino spdif sample-rate display (i2c OLED)
 
 ![spdif display](https://c1.staticflickr.com/5/4234/35592124081_bfc3b191c6_z.jpg)
 
