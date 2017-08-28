@@ -1,8 +1,8 @@
 # arduino spdif sample-rate display (i2c OLED)
 
-![spdif display](https://c1.staticflickr.com/5/4234/35592124081_bfc3b191c6_z.jpg)
+![rear](https://c1.staticflickr.com/5/4234/35592124081_bfc3b191c6_z.jpg)
 
-(https://c1.staticflickr.com/5/4047/35335993560_d545819eed_z.jpg)
+![front](https://c1.staticflickr.com/5/4047/35335993560_d545819eed_z.jpg)
 
 First commit; initial set of files that will build on an arduino nano
 (atmega 328).
