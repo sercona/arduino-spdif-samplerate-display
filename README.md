@@ -1,5 +1,7 @@
 # arduino-spdif-samplerate-display
 
+![spdif display](https://c1.staticflickr.com/5/4234/35592124081_bfc3b191c6_z.jpg)
+
 First commit; initial set of files that will build on an arduino nano
 (atmega 328).
 
