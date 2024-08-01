@@ -1,4 +1,4 @@
-# arduino spdif sample-rate display (i2c OLED)
+# Arduino SPDI/F Sample-Rate Display (i2c OLED)
 
 ![rear](https://c1.staticflickr.com/5/4234/35592124081_bfc3b191c6_z.jpg)
 
